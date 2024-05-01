@@ -1,0 +1,47 @@
+{
+
+   "Alcachofas" :[
+
+       {
+        "id": 1,
+        "nombre" : "Alcachofa blanca de tudela",
+        "ecologica" : true,
+        "origen" : "Tudela",
+        "vitaminas" : ["B1","C1","B3"]
+       },
+
+       {
+        "id": 2,
+        "nombre" : "Alcachofa imperial star",
+        "ecologica" : false,
+        "origen" : "Imperio",
+        "vitaminas" : ["E","C1","B3"]
+       },
+
+       {
+        "id": 3,
+        "nombre" : "Alcachofa lorca",
+        "ecologica" : false,
+        "origen" : "Lorca",
+        "vitaminas" : ["E","C1","B3"]
+       },
+
+       {
+        "id": 4,
+        "nombre" : "Alcachofa violeta de provenza",
+        "ecologica" : true,
+        "origen" : "tudela",
+        "vitaminas" : ["B1","C1","E"]
+       },
+
+       {
+        "id": 5,
+        "nombre" : "Alcachofa harmony",
+        "ecologica" : true,
+        "origen" : "Pensilvania",
+        "vitaminas" : ["B1","E","B3"]
+       }
+
+   ]
+
+}
